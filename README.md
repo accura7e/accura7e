@@ -4,7 +4,7 @@ I'm web-developer from Serpuhov
 ## Technologies that I use
 
 - languages:
-    - ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/html.png)HTML ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/css.png)CSS ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/js.png)JS
+    - ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/sass.png)HTML ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/css.png)CSS ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/js.png)JS
 - preprocessors:
     - [Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/sass.png)SASS (SCSS)
 - libs
