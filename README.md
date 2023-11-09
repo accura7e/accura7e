@@ -8,4 +8,4 @@ I'm web-developer from Serpuhov
 - preprocessors:
     - ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/sass.png)SASS (SCSS)
 - libs
-    - [Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/gsap.png)GSAP, [Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/swiper.png)SwiperSlider, 
+    - ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/gsap.png)GSAP, ![Image alt](https://github.com/accura7e/accura7e/blob/main/technologies/swiper.png)SwiperSlider, 
