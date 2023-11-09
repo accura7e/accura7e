@@ -8,4 +8,4 @@ I'm web-developer from Serpuhov
 - preprocessors:
     - SASS (SCSS)
 - libs
-    GSAP, SwiperSlider, 
+    - GSAP, SwiperSlider, 
